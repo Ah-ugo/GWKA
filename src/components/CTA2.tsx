@@ -10,11 +10,11 @@ export default function CTA2() {
             <div class="bg-blue-600 shadow-2 shadow-lg p-8 md:p-12 lg:px-16 lg:py-24">
               <div class="mx-auto max-w-xl text-center">
                 <h2 class="text-2xl font-bold text-white md:text-3xl">
-                Unlock Your Child's Potential: Find the Program that Ignites Their Spark!
+                Unlock Your Child&apos;s Potential: Find the Program that Ignites Their Spark!
                 </h2>
 
                 <p class="hidden text-white/90 sm:mt-4 sm:block">
-                Experience learning beyond textbooks. Our programs weave curiosity, creativity, and gratitude into every adventure. From budding artists to curious scientists, we have a program that nurtures your child's unique talents and interests.
+                Experience learning beyond textbooks. Our programs weave curiosity, creativity, and gratitude into every adventure. From budding artists to curious scientists, we have a program that nurtures your child&apos;s unique talents and interests.
                 </p>
 
                 <div class="mt-4 md:mt-8">

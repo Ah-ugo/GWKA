@@ -23,7 +23,7 @@ const Footer = () => {
                   /> */}
                 </a>
                 <p className="mb-7 text-base text-body-color dark:text-dark-6">
-                Start your child's journey of joyful learning! Contact us today and discover how Gratefulness Wonderland Kids Academy can make a difference.
+                Start your child&apos;s journey of joyful learning! Contact us today and discover how Gratefulness Wonderland Kids Academy can make a difference.
                 </p>
                 <p className="flex items-center text-sm font-medium text-dark dark:text-white">
                   <span className="mr-3 text-primary">

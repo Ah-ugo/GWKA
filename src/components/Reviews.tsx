@@ -93,7 +93,7 @@ export default function Reviews() {
               </div>
 
               <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                 <p class="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
@@ -176,7 +176,7 @@ export default function Reviews() {
               </div>
 
               <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                 <p class="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
@@ -259,7 +259,7 @@ export default function Reviews() {
               </div>
 
               <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                 <p class="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
@@ -342,7 +342,7 @@ export default function Reviews() {
               </div>
 
               <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                 <p class="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
@@ -425,7 +425,7 @@ export default function Reviews() {
               </div>
 
               <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                 <p class="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
@@ -508,7 +508,7 @@ export default function Reviews() {
               </div>
 
               <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                 <p class="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
