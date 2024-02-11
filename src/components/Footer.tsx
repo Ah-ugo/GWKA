@@ -195,7 +195,7 @@ const Footer = () => {
 
 export default Footer;
 
-const LinkGroup = ({ children, header }) => {
+const LinkGroup = ({ children, header }:any) => {
   return (
     <>
       <div className="w-full px-4 sm:w-1/2 lg:w-2/12">
@@ -210,7 +210,7 @@ const LinkGroup = ({ children, header }) => {
   );
 };
 
-const NavLink = ({ link, label }) => {
+const NavLink = ({ link, label }:any) => {
   return (
     <li>
       <a

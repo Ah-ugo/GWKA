@@ -13,7 +13,7 @@ export default function Reviews() {
   return (
     <div className="container bg-white">
     <div >
-    <h2 class="max-w-xl mb-4 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+    <h2 className="max-w-xl mb-4 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
         Read trusted reviews from our customers
       </h2>
       </div>
@@ -29,15 +29,15 @@ export default function Reviews() {
       <CarouselNext />
       <CarouselContent>
        <CarouselItem className="md:basis-1/2 lg:basis-1/2 bg-white py-10 px-5 shadow-2 shadow-lg">
-       <div id="keen-slider" class="bg-white">
-        <div class="keen-slider__slide">
+       <div id="keen-slider" className="bg-white">
+        <div className="keen-slider__slide">
           <blockquote
-            class="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
+            className="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
           >
             <div>
-              <div class="flex gap-0.5 text-blue-600">
+              <div className="flex gap-0.5 text-blue-600">
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -48,7 +48,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -59,7 +59,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -70,7 +70,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +81,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -92,10 +92,10 @@ export default function Reviews() {
                 </svg>
               </div>
 
-              <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
+              <div className="mt-4">
+                <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
-                <p class="mt-4 leading-relaxed text-gray-700">
+                <p className="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
                   You know what? If we come across somebody with no arms or legs, do we bother
                   resuscitating them? I mean, what quality of life do we have there?
@@ -103,7 +103,7 @@ export default function Reviews() {
               </div>
             </div>
 
-            <footer class="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
+            <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
               &mdash; Michael Scott
             </footer>
           </blockquote>
@@ -112,15 +112,15 @@ export default function Reviews() {
 
        </CarouselItem>
        <CarouselItem className="md:basis-1/2 lg:basis-1/2 bg-white py-10 px-5 shadow-2 shadow-lg">
-       <div id="keen-slider" class="bg-white">
-        <div class="keen-slider__slide">
+       <div id="keen-slider" className="bg-white">
+        <div className="keen-slider__slide">
           <blockquote
-            class="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
+            className="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
           >
             <div>
-              <div class="flex gap-0.5 text-blue-600">
+              <div className="flex gap-0.5 text-blue-600">
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -131,7 +131,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -142,7 +142,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -153,7 +153,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -164,7 +164,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -175,10 +175,10 @@ export default function Reviews() {
                 </svg>
               </div>
 
-              <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
+              <div className="mt-4">
+                <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
-                <p class="mt-4 leading-relaxed text-gray-700">
+                <p className="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
                   You know what? If we come across somebody with no arms or legs, do we bother
                   resuscitating them? I mean, what quality of life do we have there?
@@ -186,7 +186,7 @@ export default function Reviews() {
               </div>
             </div>
 
-            <footer class="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
+            <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
               &mdash; Michael Scott
             </footer>
           </blockquote>
@@ -195,15 +195,15 @@ export default function Reviews() {
 
        </CarouselItem>
        <CarouselItem className="md:basis-1/2 lg:basis-1/2 bg-white py-10 px-5 shadow-2 shadow-lg">
-       <div id="keen-slider" class="bg-white">
-        <div class="keen-slider__slide">
+       <div id="keen-slider" className="bg-white">
+        <div className="keen-slider__slide">
           <blockquote
-            class="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
+            className="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
           >
             <div>
-              <div class="flex gap-0.5 text-blue-600">
+              <div className="flex gap-0.5 text-blue-600">
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -214,7 +214,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -225,7 +225,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -236,7 +236,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -247,7 +247,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -258,10 +258,10 @@ export default function Reviews() {
                 </svg>
               </div>
 
-              <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
+              <div className="mt-4">
+                <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
-                <p class="mt-4 leading-relaxed text-gray-700">
+                <p className="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
                   You know what? If we come across somebody with no arms or legs, do we bother
                   resuscitating them? I mean, what quality of life do we have there?
@@ -269,7 +269,7 @@ export default function Reviews() {
               </div>
             </div>
 
-            <footer class="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
+            <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
               &mdash; Michael Scott
             </footer>
           </blockquote>
@@ -278,15 +278,15 @@ export default function Reviews() {
 
        </CarouselItem>
        <CarouselItem className="md:basis-1/2 lg:basis-1/2 bg-white py-10 px-5 shadow-2 shadow-lg">
-       <div id="keen-slider" class="bg-white">
-        <div class="keen-slider__slide">
+       <div id="keen-slider" className="bg-white">
+        <div className="keen-slider__slide">
           <blockquote
-            class="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
+            className="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
           >
             <div>
-              <div class="flex gap-0.5 text-blue-600">
+              <div className="flex gap-0.5 text-blue-600">
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -297,7 +297,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -308,7 +308,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -319,7 +319,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -330,7 +330,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -341,10 +341,10 @@ export default function Reviews() {
                 </svg>
               </div>
 
-              <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
+              <div className="mt-4">
+                <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
-                <p class="mt-4 leading-relaxed text-gray-700">
+                <p className="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
                   You know what? If we come across somebody with no arms or legs, do we bother
                   resuscitating them? I mean, what quality of life do we have there?
@@ -352,7 +352,7 @@ export default function Reviews() {
               </div>
             </div>
 
-            <footer class="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
+            <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
               &mdash; Michael Scott
             </footer>
           </blockquote>
@@ -361,15 +361,15 @@ export default function Reviews() {
 
        </CarouselItem>
        <CarouselItem className="md:basis-1/2 lg:basis-1/2 bg-white py-10 px-5 shadow-2 shadow-lg">
-       <div id="keen-slider" class="bg-white">
-        <div class="keen-slider__slide">
+       <div id="keen-slider" className="bg-white">
+        <div className="keen-slider__slide">
           <blockquote
-            class="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
+            className="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
           >
             <div>
-              <div class="flex gap-0.5 text-blue-600">
+              <div className="flex gap-0.5 text-blue-600">
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -380,7 +380,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -391,7 +391,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -402,7 +402,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -413,7 +413,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -424,10 +424,10 @@ export default function Reviews() {
                 </svg>
               </div>
 
-              <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
+              <div className="mt-4">
+                <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
-                <p class="mt-4 leading-relaxed text-gray-700">
+                <p className="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
                   You know what? If we come across somebody with no arms or legs, do we bother
                   resuscitating them? I mean, what quality of life do we have there?
@@ -435,7 +435,7 @@ export default function Reviews() {
               </div>
             </div>
 
-            <footer class="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
+            <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
               &mdash; Michael Scott
             </footer>
           </blockquote>
@@ -444,15 +444,15 @@ export default function Reviews() {
 
        </CarouselItem>
        <CarouselItem className="md:basis-1/2 lg:basis-1/2 bg-white py-10 px-5 shadow-2 shadow-lg">
-       <div id="keen-slider" class="bg-white">
-        <div class="keen-slider__slide">
+       <div id="keen-slider" className="bg-white">
+        <div className="keen-slider__slide">
           <blockquote
-            class="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
+            className="flex h-full flex-col justify-between bg-white p-6 shadow-sm sm:p-8 lg:p-12"
           >
             <div>
-              <div class="flex gap-0.5 text-blue-600">
+              <div className="flex gap-0.5 text-blue-600">
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -463,7 +463,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -474,7 +474,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -485,7 +485,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -496,7 +496,7 @@ export default function Reviews() {
                 </svg>
 
                 <svg
-                  class="h-5 w-5"
+                  className="h-5 w-5"
                   fill="currentColor"
                   viewBox="0 0 20 20"
                   xmlns="http://www.w3.org/2000/svg"
@@ -507,10 +507,10 @@ export default function Reviews() {
                 </svg>
               </div>
 
-              <div class="mt-4">
-                <p class="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
+              <div className="mt-4">
+                <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
-                <p class="mt-4 leading-relaxed text-gray-700">
+                <p className="mt-4 leading-relaxed text-gray-700">
                   No, Rose, they are not breathing. And they have no arms or legs … Where are they?
                   You know what? If we come across somebody with no arms or legs, do we bother
                   resuscitating them? I mean, what quality of life do we have there?
@@ -518,7 +518,7 @@ export default function Reviews() {
               </div>
             </div>
 
-            <footer class="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
+            <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
               &mdash; Michael Scott
             </footer>
           </blockquote>
