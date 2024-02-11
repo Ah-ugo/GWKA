@@ -12,7 +12,7 @@ const AboutSection = () => {
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="py-3 sm:py-4">
                     <Image
-                      src={require("../assets/images/img1.jpeg")}
+                      src={require("../assets/images/banner1.jpeg")}
                       alt=""
                       className="w-full rounded-2xl bg-white shadow-2 shadow-lg hover:shadow-lg"
                     />
