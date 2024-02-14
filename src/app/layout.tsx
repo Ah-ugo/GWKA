@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-      {/* <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/> */}
+        <meta name="google-site-verification" content="LHtRguvu3B5GTywaPx3770S1mFDCUbSYB5TvMHhP5js"/>
       </head>
       <body className={inter.className} style={{fontFamily: 'Inter',}}>
       {/* <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/> */}
